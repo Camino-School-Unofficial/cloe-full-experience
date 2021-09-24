@@ -38,7 +38,7 @@ body.dev .js-content-editable {
   outline-offset: -2px;
 }
 body.dev .js-content-editable:hover {
-  outline-color: #df59df !important;
+  outline-color: #d935d9 !important;
   outline-style: solid !important;
 }
 body.dev section.js-content-editable, body.dev header.js-content-editable, body.dev nav.js-content-editable, body.dev footer.js-content-editable {

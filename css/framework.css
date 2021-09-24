@@ -214,11 +214,11 @@
   line-height: 66px;
 }
 .btn.action-1 {
-  background-color: #df59df;
+  background-color: #d935d9;
   color: #ffffff;
 }
 .btn.action-1:hover {
-  background-color: #d72ed7;
+  background-color: #64bfff;
 }
 .btn.action-2 {
   background-color: #c2d452;
@@ -12387,7 +12387,8 @@ textarea.input {
   color: #ffffff;
 }
 .color-white.link:hover {
-  color: rgba(255, 255, 255, 0.7);
+  color:#d935d9;
+  text-decoration: underline;
 }
 
 .color-transparent-white {
